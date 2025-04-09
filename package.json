@@ -1,0 +1,24 @@
+{
+  "name": "sit737-2025-6p",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varshakanugula/sit737-2025-6p.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varshakanugula/sit737-2025-6p/issues"
+  },
+  "homepage": "https://github.com/varshakanugula/sit737-2025-6p#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
